@@ -2,6 +2,8 @@
 
 Hecho por **Jaime Merino**
 
+Ingeniero por favor revisar nuevo repositorio correcto: https://github.com/jamerinoma/POO_u3_laboratorio3
+
 ---
 
 ## Ejecución del proyecto
